@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">saveup!</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Статистика</string>
+    <string name="title_notifications">Расходы</string>
+    <string name="title_aims">Цели</string>
+    <string-array name="Dates">
+        <item>сегодня</item>
+        <item>неделю</item>
+        <item>месяц</item>
+        <item>год</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
