@@ -1,3 +1,3 @@
 # SaveUpProject
-This is my IT school project. 
+This is my school computer science project. 
 Made by Lomagin D
